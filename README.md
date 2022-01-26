@@ -4,3 +4,6 @@ Download programmet ved [Github Repositoriet](https://github.com/csnoew/dansk-wo
 
 ### Mods
 Du kan selv tiføje dine egne ord, de skal bare være 5 bogstaver med mellemrum imellem, skriv dem i 'wordlist.txt'.
+
+### Kontakt
+Hvis du er handi og har problemer med programmet så kan du skrive til mig på Discord: mathias_sovjet#1988

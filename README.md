@@ -1,2 +1,2 @@
 # dansk-wordle
-Wordle men dansk
+Jeg kodet i biologi time
